@@ -1,0 +1,321 @@
+{
+  "name": "Etiquetas",
+  "children": [
+    {
+      "name": "Aplicaciones matemáticas",
+      "children": [
+        { "name": "Avanzado", "children": [{ "name": "Cálculo del Seno" }] }
+      ]
+    },
+    {
+      "name": "Cadenas",
+      "children": [
+        { "name": "Intermedio", "children": [{ "name": "Moda en una cadena" }] }
+      ]
+    },
+    {
+      "name": "Ciclos",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Adopción Canina" },
+            { "name": "Barrio_Peligroso" },
+            { "name": "Binarizar (Matriz de Listas)" },
+            { "name": "Binarizar (Matriz de Tuplas)" },
+            { "name": "Buscando Primos" },
+            { "name": "Buscar un elemento en una lista" },
+            { "name": "Caracteres Repetidos" },
+            { "name": "Conteo de Divisibles" },
+            { "name": "El Mejor Equipo" },
+            { "name": "Empacando Colores" },
+            { "name": "Encontrar el elemento mayor" },
+            { "name": "Encontrar el elemento menor" },
+            { "name": "Escala de Grises (Matriz de Listas)" },
+            { "name": "Escala de Grises (Matriz de Tuplas)" },
+            { "name": "La fila juiciosa" },
+            { "name": "Mismos Dígitos" },
+            { "name": "Multiplicación en la columna" },
+            { "name": "Primer par" },
+            { "name": "Reflejar Verticalmente (Matriz de Listas)" },
+            { "name": "Reflejar Verticalmente (Matriz de Tuplas)" },
+            { "name": "Repintar la X" },
+            { "name": "Suma en la diagonal" },
+            { "name": "Sumar posiciones pares" },
+            { "name": "Sumar valores pares" },
+            { "name": "Transformar a Negativo (Matriz de Listas)" },
+            { "name": "Transformar a Negativo (Matriz de Tuplas)" },
+            { "name": "Vaca de Cumpleaños" }
+          ]
+        },
+        { "name": "Avanzado", "children": [{ "name": "Cálculo del Seno" }] },
+        {
+          "name": "Intermedio",
+          "children": [
+            { "name": "Convolución (Matriz de Listas)" },
+            { "name": "Convolución (Matriz de tuplas)" },
+            { "name": "Descifrar código César" },
+            { "name": "El novio tacaño" },
+            { "name": "Encontrar si un número es primo" },
+            { "name": "Escalas musicales" },
+            { "name": "Megalópolis" },
+            { "name": "Moda en una cadena" },
+            { "name": "Ordenar cadena de caracteres" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Conteo",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Materias favoritas" }] }
+      ]
+    },
+    {
+      "name": "Conteo.",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Caracteres Repetidos" }] }
+      ]
+    },
+    {
+      "name": "Definición de responsabilidades",
+      "children": [
+        {
+          "name": "Avanzado",
+          "children": [{ "name": "Movimiento robótico - V2" }]
+        }
+      ]
+    },
+    {
+      "name": "Descomposición de funciones",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Aproximación de Notas" }] }
+      ]
+    },
+    {
+      "name": "Enteros",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Buscando Primos" },
+            { "name": "El Mejor Equipo" },
+            { "name": "Empacando Colores" },
+            { "name": "Modularidad" },
+            { "name": "Multiplicación en la columna" },
+            { "name": "Suma en la diagonal" }
+          ]
+        },
+        {
+          "name": "Intermedio",
+          "children": [{ "name": "Encontrar si un número es primo" }]
+        }
+      ]
+    },
+    {
+      "name": "Filtro",
+      "children": [
+        { "name": "Intermedio", "children": [{ "name": "Megalópolis" }] }
+      ]
+    },
+    {
+      "name": "Instrucciones iterativas",
+      "children": [
+        { "name": "Avanzado", "children": [{ "name": "Pig Latin" }] }
+      ]
+    },
+    {
+      "name": "Listas",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Adopción Canina" },
+            { "name": "Aproximación de Notas" },
+            { "name": "Ash y la liga Kalos" },
+            { "name": "Buscar un elemento en una lista" },
+            { "name": "Empacando Colores" },
+            { "name": "Encontrar el elemento mayor" },
+            { "name": "Encontrar el elemento menor" },
+            { "name": "Fifa Ultimate Team" }
+          ]
+        },
+        {
+          "name": "Intermedio",
+          "children": [
+            { "name": "Escalas musicales" },
+            { "name": "Invictos" },
+            { "name": "Megalópolis" }
+          ]
+        },
+        { "name": "Avanzado", "children": [{ "name": "Pig Latin" }] }
+      ]
+    },
+    {
+      "name": "Manejo de strings",
+      "children": [
+        {
+          "name": "Intermedio",
+          "children": [{ "name": "Descifrar código César" }]
+        },
+        { "name": "Avanzado", "children": [{ "name": "Pig Latin" }] }
+      ]
+    },
+    {
+      "name": "Matemáticas",
+      "children": [
+        { "name": "Avanzado", "children": [{ "name": "Entero Mínimo" }] },
+        { "name": "Básico", "children": [{ "name": "Potenciador" }] }
+      ]
+    },
+    {
+      "name": "Matrices",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Barrio_Peligroso" },
+            { "name": "Binarizar (Matriz de Listas)" },
+            { "name": "Binarizar (Matriz de Tuplas)" },
+            { "name": "El Mejor Equipo" },
+            { "name": "Empacando Colores" },
+            { "name": "Escala de Grises (Matriz de Listas)" },
+            { "name": "Escala de Grises (Matriz de Tuplas)" },
+            { "name": "La fila juiciosa" },
+            { "name": "Multiplicación en la columna" },
+            { "name": "Reflejar Verticalmente (Matriz de Listas)" },
+            { "name": "Reflejar Verticalmente (Matriz de Tuplas)" },
+            { "name": "Repintar la X" },
+            { "name": "Suma en la diagonal" },
+            { "name": "Transformar a Negativo (Matriz de Listas)" },
+            { "name": "Transformar a Negativo (Matriz de Tuplas)" },
+            { "name": "Vaca de Cumpleaños" }
+          ]
+        },
+        {
+          "name": "Intermedio",
+          "children": [
+            { "name": "Convolución (Matriz de Listas)" },
+            { "name": "Convolución (Matriz de tuplas)" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Operaciones matemáticas",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Barrio_Peligroso" },
+            { "name": "La fila juiciosa" },
+            { "name": "Repintar la X" },
+            { "name": "Vaca de Cumpleaños" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Operaciones sobre strings",
+      "children": [
+        {
+          "name": "Intermedio",
+          "children": [{ "name": "Centrar texto en la terminal" }]
+        }
+      ]
+    },
+    {
+      "name": "Operadores",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Conteo de Divisibles" }] }
+      ]
+    },
+    {
+      "name": "Operadores binarios",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Modularidad" }] }
+      ]
+    },
+    {
+      "name": "Optimización global",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "El Mejor Equipo" }] }
+      ]
+    },
+    {
+      "name": "Ordenamiento",
+      "children": [
+        {
+          "name": "Intermedio",
+          "children": [{ "name": "Ordenar cadena de caracteres" }]
+        }
+      ]
+    },
+    {
+      "name": "Procesamiento de imágenes",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Binarizar (Matriz de Listas)" },
+            { "name": "Binarizar (Matriz de Tuplas)" },
+            { "name": "Escala de Grises (Matriz de Listas)" },
+            { "name": "Escala de Grises (Matriz de Tuplas)" },
+            { "name": "Reflejar Verticalmente (Matriz de Listas)" },
+            { "name": "Reflejar Verticalmente (Matriz de Tuplas)" },
+            { "name": "Transformar a Negativo (Matriz de Listas)" },
+            { "name": "Transformar a Negativo (Matriz de Tuplas)" }
+          ]
+        },
+        {
+          "name": "Intermedio",
+          "children": [
+            { "name": "Convolución (Matriz de Listas)" },
+            { "name": "Convolución (Matriz de tuplas)" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recorrido parcial",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Empacando Colores" }] }
+      ]
+    },
+    {
+      "name": "Recorrido total",
+      "children": [
+        {
+          "name": "Intermedio",
+          "children": [{ "name": "Descifrar código César" }]
+        }
+      ]
+    },
+    {
+      "name": "Recorridos dobles",
+      "children": [
+        { "name": "Intermedio", "children": [{ "name": "Escalas musicales" }] }
+      ]
+    },
+    {
+      "name": "Recorridos especiales",
+      "children": [
+        { "name": "Básico", "children": [{ "name": "Mismos Dígitos" }] }
+      ]
+    },
+    {
+      "name": "Recorridos parciales",
+      "children": [
+        {
+          "name": "Básico",
+          "children": [
+            { "name": "Buscar un elemento en una lista" },
+            { "name": "Conteo de Divisibles" },
+            { "name": "Primer par" }
+          ]
+        },
+        { "name": "Intermedio", "children": [{ "name": "Escalas musicales" }] }
+      ]
+    }
+  ]
+}
